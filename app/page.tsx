@@ -1,9 +1,9 @@
 export default function PlaygroundHome() {
   return (
-    <main className="min-h-screen bg-slate-50 p-10 space-y-10">
+    <main className="min-h-screen bg-white p-10 space-y-10">
       <h1 className="text-4xl font-semibold tracking-tight">UI Playground</h1>
 
-      <p className="max-w-xl text-slate-600">
+      <p className="max-w-xl text-slate-700">
         Tempat eksperimen style: card, border, shadow, layout, spacing, typography.
       </p>
 
